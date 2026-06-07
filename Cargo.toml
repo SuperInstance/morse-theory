@@ -1,0 +1,11 @@
+[package]
+name = "morse-theory"
+version = "0.1.0"
+edition = "2021"
+description = "Morse theory on manifolds — critical points, Morse complex, and handle attachments"
+license = "MIT"
+keywords = ["morse", "topology", "manifold", "critical", "handle"]
+categories = ["mathematics", "algorithms"]
+repository = "https://github.com/SuperInstance/morse-theory"
+
+[dependencies]
